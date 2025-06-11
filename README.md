@@ -9,16 +9,19 @@
 ###
 
 <p align="left">The last years of my career I learned a lot about biotechnology and lab-behavior.<br>
-                I loved learning how the teeny tiniest parts of our world work and what we are able to find out by using this knowledge!<br><br>
-  
+                I loved learning how the teeny tiniest parts of our world work and what we are able to find out by using this knowledge!<br>
+                <br>
                 As much as I enjoyed this part of my life, I started missing something:<br>
                 Beeing curious, living my creativity and trying out "everyting" that comes in my mind.<br>
                 Which is... sometimes not the best idea when dealing with exhaustible and expencive resources ^^ <br>
                 <br>
-                So I decided  that sometimes it is better not to stick to the stuff you know and change your life like you're changing through your life :) <br>
+                So I decided  that sometimes it is better not to stick to the stuff you know<br>
+                and change your life like you're changing yourself through your life :D <br>
                 <br>
                 LONG STORY SHORT:<br>
-                Here you can see the progress of my advanture from lab to tec  \(^o^)/ </p>
+                Here we can see the progress of my advanture from lab-tec to tec-tec  \(^o^)/ </p>
+  
+                
 
 ###
 
