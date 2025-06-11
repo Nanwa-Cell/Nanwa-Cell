@@ -4,8 +4,7 @@
 
 ###
 
-<p>Hi there<br>
-  I'm Christina</p>
+<p align="center" font-style="bold">Hi there. I'm Christina</p>
 
 ###
 
