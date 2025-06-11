@@ -4,6 +4,11 @@
 
 ###
 
+<p>Hi there<br>
+  I'm Christina</p>
+
+###
+
 <img src="https://raw.githubusercontent.com/Nanwa-Cell/Nanwa-Cell/output/snake.svg" alt="Snake animation" />
 
 ###
