@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">The last years of my career I learned a lot about biotechnology and lab-behavior.<br>
+<p align="center">The last years of my career I learned a lot about biotechnology and lab-behavior.<br>
                 I loved learning how the teeny tiniest parts of our world work and what we are able to find out by using this knowledge!<br>
                 <br>
                 As much as I enjoyed this part of my life, I started missing something:<br>
